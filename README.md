@@ -32,6 +32,15 @@ Regime: CLT
 
 100% Remoto
 
+## Processo seletivo
+
+O processo seletivo contará com 4 fases:
+
+- Seleção do candidato através do currículo e informações adicionais.
+- Resolução de teste técnico.
+- Entrevista via call.
+- Contratação.
+
 ## Como se candidatar
 
 Para se candidatar, basta acessar a url de acordo com o nível e realizar o teste para a vaga:
