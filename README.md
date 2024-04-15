@@ -47,4 +47,4 @@ O processo seletivo contará com 4 fases:
 
 Para se candidatar, basta acessar a url de acordo com a vaga desejada e realizar o teste:
 
-- [Desenvolvedor Frontend Jr.](https://github.com/dotlib/teste-desenvolvedor-frontend)
+- [Desenvolvedor Frontend Jr.](https://github.com/Dotlib-BR/teste-desenvolvedor-frontend)
