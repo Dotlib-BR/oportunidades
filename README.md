@@ -6,23 +6,25 @@ A Dot.Lib distribui conteúdo online científico e acadêmico a centenas de inst
 
 ## Conheça mais sobre a Dotlib
 
-https://dotlib.com/
-
-https://www.linkedin.com/company/dotlib/
+- https://dotlib.com
+- https://www.linkedin.com/company/dotlib
+- https://business.facebook.com/dotlibbrasil
+- https://www.instagram.com/dotlibbrasil
+- https://www.youtube.com/user/tvdotlib
 
 ---
 
-Buscamos profissionais que sejam apaixonados por desenvolvimento, inovação e novas tecnologias, para integrar nosso time em projetos baseados em Node.JS, Laravel, React.JS e React Native.
+Buscamos profissionais que sejam apaixonados por desenvolvimento, inovação e novas tecnologias, para integrar nosso time em projetos baseados em Laravel, Node.JS, React.JS e React Native.
 
 ## Benefícios
 
-- Salário compatível com o mercado;
-- Vale Refeição ou Vale Alimentação;
-- Plano de Saúde e Odontológico;
-- Equipe unida, divertida e apaixonada por hambúrgueres;
-- TECH DAY - Evento trimestral de palestras sobre tecnologia;
-- Friday's Talk - Bate papo descontraído sobre tecnologia, apresentação de POCs de estudos, etc;
-- Emendas em feriados nacionais.
+- Salário compatível com o mercado
+- Vale Refeição ou Vale Alimentação
+- Plano de Saúde e Odontológico
+- Equipe unida, divertida
+- TECH DAY: evento trimestral de palestras sobre tecnologia
+- Friday's Talk: bate papo semanal descontraído sobre tecnologia, apresentação de POCs de estudos, etc
+- Emendas em feriados nacionais
 
 ## Contratação
 
@@ -36,15 +38,13 @@ Regime: CLT
 
 O processo seletivo contará com 4 fases:
 
-- Seleção do candidato através do currículo e informações adicionais.
-- Resolução de teste técnico.
-- Entrevista via call.
-- Contratação.
+- Seleção do candidato através do currículo e informações adicionais
+- Resolução de teste técnico
+- Entrevista via call
+- Contratação
 
 ## Como se candidatar
 
-Para se candidatar, basta acessar a url de acordo com o nível e realizar o teste para a vaga:
+Para se candidatar, basta acessar a url de acordo com a vaga desejada e realizar o teste:
 
-- [Desenvolvedor PHP Júnior](https://github.com/dotlib/teste-desenvolvedor-php)
-- [Desenvolvedor PHP Pleno](https://github.com/dotlib/teste-desenvolvedor-php-pleno)
-- [Desenvolvedor Frontend Júnior](https://github.com/dotlib/teste-desenvolvedor-frontend)
+- [Desenvolvedor Frontend Jr.](https://github.com/dotlib/teste-desenvolvedor-frontend)
